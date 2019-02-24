@@ -9,6 +9,7 @@
   - [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
   - [The Gradient](https://thegradient.pub/)
   - [A Paper a day](https://apaperaday.nurture.ai/)
+  - [Google AI](https://ai.googleblog.com/)
 
 ### Research Paper summaries
   - [Patrick Emami](https://pemami4911.github.io/paper-summaries/)
