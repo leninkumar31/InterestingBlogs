@@ -12,6 +12,8 @@
   - [Google AI](https://ai.googleblog.com/)
   - [Chris McCormick](http://mccormickml.com/)
   - [AI Shack](http://www.aishack.in)
+  - [Jonathan Hui blog](https://jhui.github.io/)
+  - [Jonathan Hui Medium](https://medium.com/@jonathan_hui)
 
 ### Research Paper summaries
   - [Patrick Emami](https://pemami4911.github.io/paper-summaries/)
