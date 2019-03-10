@@ -10,6 +10,7 @@
   - [The Gradient](https://thegradient.pub/)
   - [A Paper a day](https://apaperaday.nurture.ai/)
   - [Google AI](https://ai.googleblog.com/)
+  - [Chris McCormick](http://mccormickml.com/)
 
 ### Research Paper summaries
   - [Patrick Emami](https://pemami4911.github.io/paper-summaries/)
