@@ -38,3 +38,5 @@
   - [APIs you won't hate](https://blog.apisyouwonthate.com/)
   - [Awesome](https://github.com/sindresorhus/awesome#readme)
   - [Python](https://automatetheboringstuff.com/)
+  - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+  - [Design Patterns](https://sourcemaking.com/design-patterns-and-tips)
